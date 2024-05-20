@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm Olaronke Adegbite
-- Data Analyst
+I'm Olaronke Adegbite
+Data Analyst
 ## Skills
   * Excel
   * Power Bi
