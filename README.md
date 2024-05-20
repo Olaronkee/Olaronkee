@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm Olaronke Adegbite
-- Data Analyst
+- A Data Analyst solving real-world problems with data.
 
 ## Skills
   * Excel
