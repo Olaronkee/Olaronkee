@@ -2,6 +2,7 @@
 
 I'm Olaronke Adegbite
 Data Analyst
+
 ## Skills
   * Excel
   * Power Bi
