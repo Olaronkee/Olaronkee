@@ -8,6 +8,7 @@
   * Power Bi
   * SQL
   * R
+  * Python
 - Reach me via email: olaronkeolaniyi@gmail.com  or <www.linkedin.com/in/olaronke-olaniyi-adegbite>
 - <https://olaronkeadegbite.com/>
   
